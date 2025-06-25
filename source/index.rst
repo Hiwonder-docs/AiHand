@@ -18,4 +18,4 @@ AiHand
    docs/5.Aihand_basic_games_lesson.md
    docs/6.AI_Vision_Games_Lesson.md
    docs/appendix.md
-   Download<https://drive.google.com/drive/folders/1VpZGmRIGX_IbTn4r7yTc62ygEnq0S2Du?usp=sharing>
+   Download <https://drive.google.com/drive/folders/1VpZGmRIGX_IbTn4r7yTc62ygEnq0S2Du?usp=sharing>
